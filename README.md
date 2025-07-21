@@ -2,6 +2,7 @@
 
 Predict future Apple Inc. (AAPL) stock prices using historical data and a Long Short-Term Memory (LSTM) neural network.
 
+
 ## 📌 Overview
 
 This project leverages a Recurrent Neural Network (RNN) with LSTM layers to forecast future stock prices based on historical AAPL data. It includes data preprocessing, model training, evaluation, and visualization of results.
@@ -43,11 +44,13 @@ Save: Trained model for future inference.
 
 ![Predicted vs Actual for last 100 stocks]("C:\Workspace\Projects\Stock price prediction\artifacts\Predicted vs Real Stock price for 100 newest stock.png")
 
+
 ## 📦 Dataset
 
 Source: [Yahoo Finance](https://finance.yahoo.com/quote/AAPL/history/?p=AAPL)
 
 Columns used: Date, Open, High, Low, Close, Volume
+
 
 ## 📌 Future Work
 
@@ -56,6 +59,7 @@ Integrate technical indicators (MACD, RSI, etc.)
 Use multivariate LSTM (add external features)
 
 Deploy as a web app using Streamlit or Flask
+
 
 ## 🙌 Author
 
