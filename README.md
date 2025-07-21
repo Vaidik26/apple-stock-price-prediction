@@ -40,9 +40,9 @@ Save: Trained model for future inference.
 
 ## 📊 Results
 
-![Predicted vs Actual](C:/Workspace/Projects/Stock price prediction/artifacts/Predicted vs Real Stock price.png)
+![Predicted vs Actual](artifacts/Predicted%20vs%20Real%20Stock%20price.png)
 
-![Predicted vs Actual for last 100 stocks](C:/Workspace/Projects/Stock price prediction/artifacts/Predicted vs Real Stock price for 100 newest stock.png)
+![Predicted vs Actual for last 100 stocks](artifacts/Predicted%20vs%20Real%20Stock%20price%20for%20100%20newest%20stock.png)
 
 
 ## 📦 Dataset
